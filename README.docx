@@ -7,5 +7,3 @@ Eğer girilen değer seçenek dışı bir değer ise hata vererek tekrar seçim 
 Kullanıcıdan girilmesi istenen iki değer main içinde switch'de kontrol edilerek,döngü ile kullanıcıdan giriş sağlanır.
 Try-Catch özelliği ile kullanıcıdan alınan değerleri metodlara gönderip kontrol eder ve istenmeyen şekilde programım sonlanmasını 
 engeller.
-                             Örnek Çalışma ;
-                             
