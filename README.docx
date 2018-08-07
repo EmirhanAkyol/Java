@@ -1,0 +1,11 @@
+                                     # HESAP MAKİNESİ
+Gerekli import (java.util.InputMismatchException,import java.util.Scanner) işlemleri yapıldı.
+MenuPrefer() fonksiyonu içinde çağırılan MenuOpen() fonksiyonu çıkar ilk karşımıza.
+Bir fonksiyonu başka bir fonksiyon içinde çağırmamın sebebi seçilen işlemin (0-5 arası olan dört işlem ve çıkış seçeneği) 
+sürekliliğini sağlamak.
+Eğer girilen değer seçenek dışı bir değer ise hata vererek tekrar seçim yapmamızı sağlar ve doğru adımları izleyene kadar devam eder.
+Kullanıcıdan girilmesi istenen iki değer main içinde switch'de kontrol edilerek,döngü ile kullanıcıdan giriş sağlanır.
+Try-Catch özelliği ile kullanıcıdan alınan değerleri metodlara gönderip kontrol eder ve istenmeyen şekilde programım sonlanmasını 
+engeller.
+                             Örnek Çalışma ;
+                             
