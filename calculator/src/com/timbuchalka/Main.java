@@ -30,8 +30,8 @@ public class Main
                         System.out.println(Messages.welcomeMessage); number1=GetDecimalNumber();
                         System.out.println(Messages.welcomeMessage2); number2=GetDecimalNumber();
                 result = Multiplication(number1,number2);
-                if (result>9.999999999999){
-                   System.out.println("lütfen sayilari küçült"); }
+                if (result>99999999.0){
+                   System.out.println("LUTFEN SAYILARI KUCULT!"); }
                 else
                 ResultDisplay(result);
                 break;
